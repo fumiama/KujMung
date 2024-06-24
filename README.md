@@ -1,6 +1,12 @@
 # 归梦集
 > 千载何方归梦，棹舟星河波开。 ———— 《[花梨·冬祭](花梨.md#冬祭)》
 
+<div align="center">
+
+  ![counter](https://counter.seku.su/cmoe?name=kujmung&theme=mbs)
+
+</div>
+
 ## 目录
 
 ### 第一卷 [瑶光](瑶光.md)
